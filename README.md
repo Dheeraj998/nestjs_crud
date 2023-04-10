@@ -23,7 +23,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-
+CRUD using nestjs.Postgres used as db.Also jwt using passport
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
